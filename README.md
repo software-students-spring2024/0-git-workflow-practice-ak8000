@@ -7,3 +7,6 @@ This article is on the first human trials of Elon Musk's Neuralink chip. For the
 ## Personal Thoughts
 
 I personally think that this is quite amazing as it allows for a future where progression of diseases like ALS can be stopped and humans can use their minds to substitute basic technologies like a mouse and keyboard. I chose this article because of the prospects that this opens up ofr software engineers. Can there be some software that can be installed onto this chips or designed in order to function with it? What about games? Other hardware that requires software? I think that this opens up quite a few possibilities for software engineers to work on revolutionizing technology, and I am excited to see what the future holds for this technology.
+
+**Adam Schwartz (ags613)**<br>
+This article is interesting because it shows the capabilities that technology has in terms of alleviating the struggles that come along with degenerative diseases. However, I would also be interested in seeing how this same type of technology works in a able-bodied individuals, where it is not only looking to fix their ability to communicate with the outside world, but also see if it can make people smarter or fix other mental illnesses (schizophrenia, bipolar disorder, etc...). It seems like the possibilities could be endless, but that would seemingly require further testing.
