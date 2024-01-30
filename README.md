@@ -1,6 +1,6 @@
 # Git Practice
 
-Here is the article link (https://www.cnbc.com/2024/01/29/elon-musks-neuralink-implants-brain-tech-in-human-patient-for-the-first-time.html?utm_source=tldrnewsletter)
+Here is the [article link](https://www.cnbc.com/2024/01/29/elon-musks-neuralink-implants-brain-tech-in-human-patient-for-the-first-time.html?utm_source=tldrnewsletter)
 
 ## Introduction
 
